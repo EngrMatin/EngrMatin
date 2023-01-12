@@ -2,11 +2,8 @@
 
 ## I'm a Learner, Problem Solver, and Software Developer
 
-- 🥅 2019 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
-- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
-- 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
-- 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
+- 🥅 2023 Goals: To solve 1000+ problems to build some web based software (Preparation going on...)
+
 ### Connect with me:
 <a href="https://www.facebook.com/engr.matin/">
     <img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
