@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 ### Connect with me:
 <a href="https://www.facebook.com/engr.matin/">
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+    <img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
 
 <a href="https://www.linkedin.com/in/engr-m-a-matin-0654a699/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
@@ -25,7 +25,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/EngrMatin/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
