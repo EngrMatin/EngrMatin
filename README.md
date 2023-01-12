@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Problem Solver, and Software Developer
 
-- 🥅 2023 Goals: To solve 1000+ problems to build some web based software (Preparation going on...)
+- 🥅 2023 Goals: To solve 1000+ problems and to build 2+ web based software (Preparation going on...)
 
 ### Connect with me:
 <a href="https://www.facebook.com/engr.matin/">
@@ -49,12 +49,10 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrMatin&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
+  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMatin&show_icons=true" />
 
-
-[facebook]: https://www.facebook.com/rahatkhanpathan.1999/
