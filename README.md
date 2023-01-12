@@ -8,10 +8,10 @@
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 ### Connect with me:
-
+<a href="https://www.facebook.com/engr.matin/">
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
-<a href="https://www.linkedin.com/in/rahat-khan-pathan/">
+<a href="https://www.linkedin.com/in/engr-m-a-matin-0654a699/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
