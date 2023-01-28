@@ -15,9 +15,9 @@
 <br />
 
 <a href="https://codeforces.com/profile/EngrMatin">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/EngrMatin/ct-stats/main/output/max_rating.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+<img src="https://komarev.com/ghpvc/?username=EngrMatin&label=Profile%20views&color=0e75b6&style=flat" alt="Engr. Matin" />
 
 <b>&#128200; Competitive Programming</b>
 <br />
