@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/engr.matin/">
     <img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
 
-<a href="https://www.linkedin.com/in/engr-m-a-matin-0654a699/">
+<a href="https://www.linkedin.com/in/engr-m-a-matin">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
@@ -49,10 +49,10 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrMatin&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="EngrMatin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrMatin&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMatin&show_icons=true" />
+  <img align="center"  alt="EngrMatin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMatin&show_icons=true" />
 
