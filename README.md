@@ -15,14 +15,14 @@
 <br />
 
 <a href="https://codeforces.com/profile/EngrMatin">
-   <img src="https://raw.githubusercontent.com/EngrMatin/cf-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/EngrMatin/cf-stats/main/output/rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=EngrMatin&label=Profile%20views&color=0e75b6&style=flat" alt="Engr. Matin" />
 
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/EngrMatin/cf-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/EngrMatin/cf-stats/main/output/light_card.svg#gh" alt="Statistics"/>
 </p>
 <br/>
 <br/>
