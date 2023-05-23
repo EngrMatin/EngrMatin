@@ -32,10 +32,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/40669/c-plus-plus.png"></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python3" width="40px"        src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />   
-<a href="https://www.w3scools.com/html/" target="_blank"> <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<a href="https://www.w3scools.com/html/" target="_blank"> <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
+<a href="https://www.w3scools.com/html/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>   
 <a href="https://getbootstrap.com" target="_blank"> <img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
