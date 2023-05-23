@@ -34,7 +34,8 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 <a href="https://www.w3scools.com/html/" target="_blank"> <img align="left" alt="HTML5" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href="https://www.w3scools.com/html/" target="_blank"><img align="left" alt="CSS3" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a> 
-<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="Bootstrap" width="37px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>    
+<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="Bootstrap" width="37px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>  
+<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="45px" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>     
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React Native" width="40px" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.JS" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
