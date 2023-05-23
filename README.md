@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="C-programming" width="40px" src="https://img.icons8.com/color/48/40670/c-programming.png"></a> 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="C-programming" width="40px" src="https://img.icons8.com/color/48/TpULddJc4gTh/c%2B%2B.png"></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="C++" width="40px" src="![image](https://github.com/EngrMatin/EngrMatin/assets/113170718/796868e6-cf4a-42e2-8717-9593d058f232)"></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python3" width="40px"        src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
