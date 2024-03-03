@@ -2,7 +2,8 @@
 
 ## I'm a Learner, Problem Solver, and Software Developer
 
-- 🥅 2023 Goals: To solve 1000+ problems and to build 2+ web based software (Preparation going on...)
+- 🥅 2023 Goals: To solve 1000+ problems and to build 2+ web based software (Partially achieved)
+- 🥅 2024 Goals: To build 2+ web based software using Machine Learning and Deep Learning model, Django REST Framework. (Preparation going on...)
 
 ### Connect with me:
 <a href="https://www.facebook.com/engr.matin/">
